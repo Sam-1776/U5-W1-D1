@@ -16,7 +16,7 @@ public class Bevande extends Alimenti{
     }
 
     public String toString() {
-        return "Pizze{" +
+        return "Bevande{" +
                 "nome= " + getNome() +
                 " litri= " + litri +
                 " cal= " + getCal() +
